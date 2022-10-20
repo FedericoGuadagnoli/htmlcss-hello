@@ -2,3 +2,9 @@ html{
     background-image: url(Elden-ring.jpg);
     background-size: cover
 }
+
+body h1{
+    color: darkkhaki;
+    font-size: 150px;
+    text-align: center;
+}
